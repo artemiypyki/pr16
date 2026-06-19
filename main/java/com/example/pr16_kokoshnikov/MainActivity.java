@@ -1,4 +1,4 @@
-package com.example.pr16_mirzakamilov_pr23103;
+package com.example.pr16_kokoshnikov;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
